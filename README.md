@@ -1,3 +1,6 @@
+[![og-image](https://github.com/user-attachments/assets/d30a07f0-b312-4795-824e-15a91e061526)](https://hivemind.lol/)
+
+
 ### Hi, I'm Lucas! 👋
 
 Currently working remotely at [Scope3](https://www.scope3.com/).
@@ -7,8 +10,6 @@ Currently working remotely at [Scope3](https://www.scope3.com/).
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-bassetti/) 
 
 #### Games 🎮
-
-[![og-image](https://github.com/user-attachments/assets/95696864-3cd6-4bcb-bb51-80e02bc3b91c)](https://hivemind.lol/)
 
 ⭕ [Hivemind](https://hivemind.lol/) <br>
 🎭 [Battle of Devs](https://battle-of-devs.vercel.app/) 
