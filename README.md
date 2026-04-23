@@ -1,5 +1,4 @@
-[![og-image](https://github.com/user-attachments/assets/d30a07f0-b312-4795-824e-15a91e061526)](https://hivemind.lol/)
-
+[![og-image](https://github.com/user-attachments/assets/db7fa6ac-1179-4ab6-a06c-0bc52270206e)](https://hivemind.lol/)
 
 ### Hi, I'm Lucas! 👋
 
