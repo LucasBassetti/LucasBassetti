@@ -7,8 +7,3 @@ Senior Full Stack Engineer with 10+ years of experience building scalable web an
 #### Links 🔗
 🚀 [Site](https://lucasbassetti.com/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-bassetti/) 
-
-#### Games 🎮
-
-⭕ [Hivemind](https://hivemind.lol/) <br>
-🎭 [Battle of Devs](https://battle-of-devs.vercel.app/) 
