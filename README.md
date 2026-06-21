@@ -1,4 +1,8 @@
-[![og-image](https://github.com/user-attachments/assets/db7fa6ac-1179-4ab6-a06c-0bc52270206e)](https://hivemind.lol/)
+<div align="center">
+  <a href="https://gitroll.io/profile/uJrpyxQ7MuWSAYulR09qFRrm62PF3" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uJrpyxQ7MuWSAYulR09qFRrm62PF3" alt="GitRoll Profile Badge" />
+  </a>
+</div>
 
 ### Hi, I'm Lucas! 👋
 
